@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Commit rules
+
+- When you finish applying changes, the last line of the message should “Don’t forget to commit!” and give me a commit command as well.
+- Always commit significant changes with a meaningful commit message
